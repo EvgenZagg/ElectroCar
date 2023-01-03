@@ -1,0 +1,5 @@
+                    <svg class="courusel_button_right" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35" fill="none">
+                        <rect width="35" height="35" fill="#007499"/>
+                        <path d="M16 10L23.5 17.5L16 25" stroke="white" stroke-linecap="round"/>
+                        <path d="M13 12L18.625 17.625L13 23.25" stroke="white" stroke-linecap="round"/>
+                    </svg>
